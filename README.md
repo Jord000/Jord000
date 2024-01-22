@@ -4,3 +4,8 @@
 - 💞️ I'm open to collabs feedback and any comments...
 - 📫 How to reach me ... jordanwatson000@gmail.com
 - https://www.linkedin.com/in/jordan-watson-13884aba/
+
+- Some links to recently deployed work...
+- [Flubber? Maybe, a threeJs project with ineraction of a model in web](https://isthisflubber-react3f.netlify.app/)
+- [A news app with social media orientated functionality](https://thenewsjw.netlify.app/)
+- [Carbon data presented in a pie chart from the national grid](https://carbon-data-pie.netlify.app/)
