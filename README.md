@@ -6,6 +6,7 @@
 - https://www.linkedin.com/in/jordan-watson-13884aba/
 
 - Some links to recently deployed work...
+- [A place to house my projects in a 3D space!](https://jordanwatson.netlify.app/)
 - [Flubber? Maybe, a threeJs project with ineraction of a model in web](https://isthisflubber-react3f.netlify.app/)
 - [A news app with social media orientated functionality](https://thenewsjw.netlify.app/)
 - [Carbon data presented in a pie chart from the national grid](https://carbon-data-pie.netlify.app/)
