@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Jord000 - Jordan Watson
-- 👀 I’m interested in JS,TS,React, React Three Fiber and 3d interactive environments...
-- 🌱 I’m currently learning NEXT.js
-- 💞️ I'm open to collabs, feedback and any comments...
+- 👀 I’m interested in TS, React, React Three Fiber, Kubernetes, Java 
+- 🌱 I’m currently learning Java lambdas & Opensearch in AWS
 - 📫 How to reach me ... jordanwatson000@gmail.com
 - https://www.linkedin.com/in/jordan-watson-13884aba/
 
